@@ -23,6 +23,6 @@ for price in prices:
     total += price
 
 #to skip one line
-print()
+print("testing1")
 
 print(f"Your total is : ${total}")
