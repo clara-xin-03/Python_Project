@@ -24,5 +24,6 @@ for price in prices:
 
 #to skip one line
 print("testing1")
+print("testing2")
 
 print(f"Your total is : ${total}")
